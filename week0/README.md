@@ -49,4 +49,4 @@ Necessary EDA tools for IC design:
 *   **eSim:** A good educational suite (based on KiCad and NGSPICE), but many advanced users prefer **Xschem** for schematic entry.
 *   **Qflow:** A useful scripted flow, but largely **superseded by the more robust and automated OpenLANE** for modern projects.
 
-Your list is a perfect starting point for the world of open-source EDA. Focus on getting OpenLANE running, and you will have access to the vast majority of tools needed for a full IC tapeout.
+
