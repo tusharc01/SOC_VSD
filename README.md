@@ -1,5 +1,5 @@
-# SOC_VSD
-RISC-V Reference Tapeout Program
+# RISC-V Reference Tapeout Program
+
 
 
 ### What is the VSD RISC-V Reference SoC Tapeout Program?
