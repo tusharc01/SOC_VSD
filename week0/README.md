@@ -42,9 +42,9 @@ This is for designing circuits like amplifiers, sensors, PHYs, etc.
 
 
 Necessary EDA tools for IC design:
-*   **Virtual Box:** Correct, for Windows users to run Linux.
-*   **NGSPICE:** Correct, essential for simulation.
-*   **Magic:** Correct, essential for layout and verification.
+*   **Virtual Box:** For Windows users to run Linux.
+*   **NGSPICE:** Essential for simulation.
+*   **Magic:** Essential for layout and verification.
 *   **Opentimer:** A good open-source STA tool, but **OpenSTA** (integrated with OpenLANE) is more common now.
 *   **eSim:** A good educational suite (based on KiCad and NGSPICE), but many advanced users prefer **Xschem** for schematic entry.
 *   **Qflow:** A useful scripted flow, but largely **superseded by the more robust and automated OpenLANE** for modern projects.
